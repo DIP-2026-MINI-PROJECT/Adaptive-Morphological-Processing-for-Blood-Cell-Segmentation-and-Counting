@@ -28,6 +28,8 @@ Advika Dokania (PES1UG24EC020)
 Khushi Shetty (PES1UG24EC103)
 Lakshmi Sri R (PES1UG24EC110)
 ### Steps:
+Clone Repository
+https://github.com/DIP-2026-MINI-PROJECT/Adaptive-Morphological-Processing-for-Blood-Cell-Segmentation-and-Counting.git
  Algorithm Steps
 Image Acquisition & Preprocessing: Read the blood smear image and apply Gaussian filtering to reduce noise.
 Cell Detection: Use automatic thresholding on the green channel to separate cells from the background.
